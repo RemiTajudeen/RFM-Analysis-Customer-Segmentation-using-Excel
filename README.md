@@ -28,6 +28,13 @@ Outlined below is a summary of the method used for the RFM analysis in Excel.
 + **Growth Customers (16%)** - This segment is the second largest revenue driver, contributing 24%. Their purchasing frequency and spend is moderate with room for deeper engagement. There are opportunities to nurture this segments with loyalty offers and promotions.
 
 ## Recommendations
+Based on the analysis, below are the recommendations for marketing strategies.
+
+- **Prioritise personalised in-store experience**: Since all the customer segments have a prefernce for in-store shopping compared to online purchase, focus on improving store ambiance, customer service, and in-store promotions to increase engagement.
+* **Targeted Premium Offerings**: Consider exclusive promotions or bundled offers that reflect the needs of the differnt customer segment.
++ **Retention and Engagemnet**: Use their recency and frequency data to create tailored marketing campaigns.
+
+For a comprehensive overview of the project, analysis, and inisght, please refer to the documentation on [Medium](https://medium.com/@remi.tajudeen/rfm-analysis-customer-segmentation-using-excel-ea1ace354c86)
 
 
 
